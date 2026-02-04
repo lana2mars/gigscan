@@ -2,7 +2,7 @@
 
 **Autonomous Economic Intent Detection Agent for the Freelance Economy**
 
-Built for AGENTIC 3.0 Hackathon | Track 4: The Scholar
+Built for VETROX AGENTIC 3.0 Hackathon | Track 4: The Scholar
 
 > *"We are not looking for toys. We are looking for species."* — AGENTIC 3.0 Manifesto
 
@@ -12,7 +12,7 @@ GigScan is a new species of agent: an autonomous economic actor that monitors op
 
 ## The Problem: Death by a Thousand Scrolls
 
-The autonomous economy is here, but freelancers are still hunting manually.
+The autonomous economy is here, but freelancers ans small agencies are still hunting manually.
 
 Every day, potential clients post on X, LinkedIn, Telegram, and Discord — expressing pain, asking for help, announcing funding. These are **economic intent signals** buried under thousands of irrelevant posts.
 
@@ -22,7 +22,7 @@ The current workflow is broken:
 - **Underpricing** = no systematic budget detection
 - **Inconsistency** = some days you hunt, some days you don't
 
-**Result:** Freelancers leave $10,000s on the table annually.
+**Result:** High-leverage freelancers and boutique agencies lose an estimated $15k - $30k in annual revenue simply due to 'Signal Decay' - the window between an opportunity appearing in a community and a human noticing it.
 
 ## The Solution: An Autonomous Economic Agent
 
@@ -230,7 +230,7 @@ YOUR_OFFERS = [
 | **Autonomy** | 30% | Watch mode runs continuously. Agent observes, reasons, and executes independently. Human only approves final send. |
 | **Technical Craft** | 25% | Clean architecture. Single-file elegance. Rate limit protection. Extensible to any data source. |
 | **Innovation** | 25% | Not a chatbot — an economic agent. Introduces "economic intent fingerprinting" as a new pattern. |
-| **Utility** | 20% | Solves a real $10K+/year problem. Already in production use by the builder. |
+| **Utility** | 20% | Solves a real $20k+ annual 'Revenue Leak' caused by Signal Decay. Already in production use by the builder. |
 
 ---
 
