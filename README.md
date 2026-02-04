@@ -2,9 +2,7 @@
 
 **Autonomous Economic Intent Detection Agent for the Freelance Economy**
 
-Built for AGENTIC 3.0 Hackathon | Track 4: The Scholar
-
-> *"We are not looking for toys. We are looking for species."* — AGENTIC 3.0 Manifesto
+Built for Hackathon 
 
 GigScan is a new species of agent: an autonomous economic actor that monitors opportunity streams, reasons about economic intent, and executes strategic outreach — all without human intervention.
 
