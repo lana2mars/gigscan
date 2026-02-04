@@ -267,6 +267,16 @@ MIT — Fork it, improve it, ship it.
 
 ## Author
 
-Built with urgency by a founder who needed this yesterday.
+Lana Shevchenko. Built with urgency by a founder who needed this yesterday.
+
+I help Web3 × AI founders scale through GTM strategy, partnerships, and investment readiness.
+
+I’m a founder, agency builder & fractional CMO with 18+ years in venture creation across Europe, MENA & Southeast Asia.
+
+Why I built this: 
+
+Living and breathing Web3, I see the same pattern every cycle: everyone is hunting for gigs, but the best opportunities are buried in the CT noise. I’ve spent years manually hunting leads for my own digital agency, it's a massive "profit leak."
+
+I built GigScan solo to solve my own problem. It helps me find leads in CT (Crypto Twitter), Discord, and LinkedIn, analyzes which ones are actually relevant based on their posts, and initiates the contact. It automates the hustle so I can stay focused on shipping.
 
 *The future belongs to the builders who ship.*
