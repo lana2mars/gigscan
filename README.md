@@ -2,7 +2,7 @@
 
 **Autonomous Economic Intent Detection Agent for the Freelance Economy**
 
-Built for VETROX AGENTIC 3.0 Hackathon | Track 4: The Scholar
+Built for AGENTIC 3.0 Hackathon | Track 4: The Scholar
 
 > *"We are not looking for toys. We are looking for species."* — AGENTIC 3.0 Manifesto
 
